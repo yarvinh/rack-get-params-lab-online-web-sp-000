@@ -50,4 +50,4 @@ class Application
 
 end
 
-get
+gets
