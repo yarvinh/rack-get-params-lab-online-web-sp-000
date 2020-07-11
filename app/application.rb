@@ -49,6 +49,3 @@ class Application
 
 
 end
-
-input = gets
-p input
