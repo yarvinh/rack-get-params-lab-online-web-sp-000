@@ -50,4 +50,5 @@ class Application
 
 end
 
-p gets
+input = gets
+p input
